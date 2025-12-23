@@ -1,0 +1,14 @@
+[project]
+name = "ai-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pyaudio>=0.2.14",
+    "pyttsx3>=2.99",
+    "setuptools>=80.9.0",
+    "speechrecognition>=3.14.4",
+    "wikipedia>=1.4.0",
+    "wikipedia-api>=0.8.1",
+]
